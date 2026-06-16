@@ -1,16 +1,32 @@
-## Hi there 👋
+# Mahi-Mezack Desire Christian
 
-<!--
-**christianmahi/christianmahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en L2 Informatique  
+Je m’intéresse principalement aux bases de données SQL à l’administration des données et au développement
 
-Here are some ideas to get you started:
+## Objectif
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je recherche un stage orienté SQL bases de données ou informatique de gestion et aussi une alternance pour l'annee 2027
+
+## Compétences
+
+- SQL
+- Modélisation MCD / MLD
+- Requêtes SQL
+- Java
+- Python
+- React
+- Linux
+- Git / GitHub
+
+## Projets
+
+- Portfolio personnel : https://christianmahi.github.io/portfolio/
+- Boutique React : https://christianmahi.github.io/Boutique-React/
+- Jeu React : https://christianmahi.github.io/Jeu-React/
+- Tower Defense Java : https://github.com/christianmahi/Tower-Defense
+- QCM Python : à venir
+
+## Contact
+
+- Portfolio : https://christianmahi.github.io/portfolio/
+- Email : christianmahi6@yahoo.com
